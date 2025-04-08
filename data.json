@@ -10,52 +10,52 @@
     {
       "name": "Hadi 1",
       "logo": "https://example.com/logos/hadi1-logo.png",
-      "link": "https://example.com/hadi1"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv1.m3u8"
     },
     {
       "name": "Hadi 2",
       "logo": "https://example.com/logos/hadi2-logo.png",
-      "link": "https://example.com/hadi2"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv2.m3u8"
     },
     {
       "name": "Hadi 3",
       "logo": "https://example.com/logos/hadi3-logo.png",
-      "link": "https://example.com/hadi3"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv3.m3u8"
     },
     {
       "name": "Hadi 4",
       "logo": "https://example.com/logos/hadi4-logo.png",
-      "link": "https://example.com/hadi4"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv4.m3u8"
     },
     {
       "name": "Hadi 5",
       "logo": "https://example.com/logos/hadi5-logo.png",
-      "link": "https://example.com/hadi5"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv5.m3u8"
     },
     {
       "name": "Hadi 6",
       "logo": "https://example.com/logos/hadi6-logo.png",
-      "link": "https://example.com/hadi6"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv6.m3u8"
     },
     {
       "name": "Hadi 7",
       "logo": "https://example.com/logos/hadi7-logo.png",
-      "link": "https://example.com/hadi7"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv7.m3u8"
     },
     {
       "name": "Hadi 8",
       "logo": "https://example.com/logos/hadi8-logo.png",
-      "link": "https://example.com/hadi8"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv8.m3u8"
     },
     {
       "name": "Hadi 9",
       "logo": "https://example.com/logos/hadi9-logo.png",
-      "link": "https://example.com/hadi9"
+      "link": "https://g.decdn.net/haditv.co.uk/haditv9.m3u8"
     },
     {
       "name": "Dua",
       "logo": "https://example.com/logos/dua-logo.png",
-      "link": "https://example.com/dua"
+      "link": "https://g.decdn.net/haditv.co.uk/dua-channel.m3u8"
     }
   ]
 }
